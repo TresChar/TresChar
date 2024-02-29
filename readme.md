@@ -36,5 +36,7 @@ If you're interested in collaborating, need assistance, or just want to chat abo
 ---
 [![](https://visitcount.itsvg.in/api?id=treschar&icon=6&color=1)](https://visitcount.itsvg.in)
 
+[![snake_svg](https://github.com/TresChar/TresChar/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
