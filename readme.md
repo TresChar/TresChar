@@ -21,7 +21,8 @@ Feel free to ask me anything, from integrating ChatGPT into applications to navi
 If you're interested in collaborating, need assistance, or just want to chat about technology and innovation, please don't hesitate to reach out. You can contact me through GitHub, X or Telegram.
 
 ## 🌐 Socials:
-[![Telegram]](https://t.me/charliechartres)
+[![Telegram](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]
+(https://t.me/charliechartres)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PyCharts)
  
 
