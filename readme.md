@@ -22,7 +22,7 @@ If you're interested in collaborating, need assistance, or just want to chat abo
 
 ## 🌐 Socials:
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PyCharts)
+[![PyCharts](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PyCharts)
 Telegram : [t.me/charliechartres]
 
 # 💻 Tech Stack:
