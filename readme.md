@@ -1,9 +1,6 @@
 # 💫 About Me:
 🚀 About Me
-I'm a passionate developer specializing in AI tools with a keen interest in leveraging Node.js for building innovative solutions. Currently, I'm diving deep into the world of blockchain technology and front-end development to expand my skill set and contribute to cutting-edge projects.
-
-🔭 Current Projects
-I'm actively working on developing AI tools using Node.js. These tools aim to harness the power of artificial intelligence to solve complex problems and improve user experiences across various applications.
+I'm a passionate developer specializing in AI tools with a keen interest in leveraging Python and Node.js for building innovative solutions. Currently, I'm diving deep into the world of blockchain technology and front-end development to expand my skill set and contribute to cutting-edge projects.
 
 🌱 Learning Journey
 Solidity is my current focus of learning. As a programming language for Ethereum smart contracts, Solidity opens up a myriad of possibilities in the blockchain space, and I'm excited about the opportunities it presents.
