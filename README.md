@@ -16,7 +16,7 @@
 </a>
 </p>
 
-![snake_svg](https://github.com/TresChar/TresChar/blob/output/github-contribution-grid-snake.svg)
+![snake_svg](https://github.com/TresChar/TresChar/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
