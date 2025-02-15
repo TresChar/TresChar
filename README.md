@@ -1,5 +1,3 @@
-# 💻 Repos:
-
 <p align="center">
 <a href="https://github.com/treschar/comingsoon#gh-dark-mode-only">
   <img height=140dp width=320dp align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treschar&repo=comingsoon&theme=dark#gh-dark-mode-only" />
