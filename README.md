@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/treschar/comingsoon#gh-dark-mode-only">
-  <img height=140dp width=320dp align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treschar&repo=comingsoon&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/treschar/jtzm.me#gh-dark-mode-only">
+  <img height=140dp width=320dp align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treschar&repo=jtzm.me&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/treschar/comingsoon#gh-light-mode-only">
   <img height=140dp width=320dp align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treschar&repo=comingsoon&theme=light#gh-light-mode-only" />
