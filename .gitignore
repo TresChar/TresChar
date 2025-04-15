@@ -1,1 +1,30 @@
 .vscode/launch.json
+svg/.github/workflows/MAIN.yml
+svg/git.svg
+UI components/day_night/day_night.css
+UI components/day_night/day_night.html
+UI components/generate/generate.css
+UI components/generate/generate.html
+UI components/hourglass/hourglass.css
+UI components/hourglass/hourglass.html
+UI components/loading_squares/loading_squares.css
+UI components/loading_squares/loading_squares.html
+UI components/loading_squares2/loading_squares2
+UI components/loading_squares2/loading_squares2.html
+UI components/rolling_squares/rolling_squares
+UI components/rolling_squares/rolling_squares.css
+UI components/switch/switch.css
+UI components/switch/switch.html
+UI components/generate/generate.css
+UI components/generate/generate.html
+UI components/hourglass/hourglass.css
+UI components/hourglass/hourglass.html
+UI components/loading_squares/loading_squares.css
+UI components/loading_squares/loading_squares.html
+UI components/loading_squares2/loading_squares2
+UI components/loading_squares2/loading_squares2.html
+UI components/rolling_squares/rolling_squares
+UI components/rolling_squares/rolling_squares.css
+UI components/switch/switch.css
+UI components/switch/switch.html
+/UI components
