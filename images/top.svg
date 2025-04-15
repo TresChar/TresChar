@@ -5,7 +5,7 @@
 <g mask="url(#mask0_1205_321)">
 <path d="M0 375V0H2047V375H0Z" fill="url(#paint0_linear_1205_321)"/>
 </g>
-
+<defs>
 <linearGradient id="paint0_linear_1205_321" x1="-0.0022279" y1="121.43" x2="2047" y2="121.43" gradientUnits="userSpaceOnUse">
 <stop stop-color="#111B1F"/>
 <stop offset="0.156" stop-color="#121F23"/>
