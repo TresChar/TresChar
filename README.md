@@ -53,7 +53,6 @@ Stats:
 </h2>
 
 <div align="center">
-<img width=433 src="https://github-readme-streak-stats.herokuapp.com/?user=treschar&theme=dark&hide_border=false" alt="treschar's Streak"/>
 <img width=409 src="https://github-readme-stats.vercel.app/api?username=treschar&show_icons=true&theme=dark" alt="treschar's Streak"/>
 </div>
 
