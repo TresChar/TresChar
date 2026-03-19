@@ -1,6 +1,6 @@
 ![alt text](./images/topimage.svg)
 
- <h2 align="center">ℙ𝕪ℂ𝕙𝕒𝕣𝕥𝕤</h2>
+ <h1 align="center">𝔠𝔥𝔞𝔯𝔱𝔰</h1>
 
 <p align="center">
 	<a href="https://github.com/treschar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -14,38 +14,21 @@
 
 </div>
 
-<h2 align="center">
-Languages and Tools:
-</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html"  alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=tailwind"  alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=react"  alt="react logo" />
   <img src="https://skillicons.dev/icons?i=typescript"  alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=php"  alt="php logo" />
   <img src="https://skillicons.dev/icons?i=python"  alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=postgresql"  alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=docker"  alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
   <img src="https://skillicons.dev/icons?i=git"  alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github"  alt="github logo" />
   <img src="https://skillicons.dev/icons?i=aws"  alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=visualstudio"  alt="visualstudio logo" />
   <img src="https://skillicons.dev/icons?i=vscode"  alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=bash"  alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=figma"  alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=obsidian"  alt="obsidian logo" />
 </div>
+<h2></h2>
 
-<h2 align="center">
-Stats:
-</h2>
-
-<br/><br/>
 
 ![alt text](./images/bottom.svg)
